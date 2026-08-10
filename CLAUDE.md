@@ -19,7 +19,7 @@ Core loop: a **Dispatcher** routes work to specialized agents — plan-generate,
 
 ## Repository Structure
 
-```
+```text
 XAgent/                     # Core agent library
 ├── core.py                 # main orchestration entry
 ├── config.py               # CONFIG / ARGS loading (assets/config YAMLs)
